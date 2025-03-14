@@ -1,0 +1,33 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "nbconvert-core 7.16.6 py311hca03da5_0",
+    "pandoc",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/nbconvert-pandoc-7.16.6-py311hca03da5_0",
+  "files": [],
+  "fn": "nbconvert-pandoc-7.16.6-py311hca03da5_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/nbconvert-pandoc-7.16.6-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "6c55afdc72ca487997bfbb974f83c0eb",
+  "name": "nbconvert-pandoc",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/nbconvert-pandoc-7.16.6-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "nbconvert-pandoc==7.16.6=py311hca03da5_0",
+  "sha256": "564225ec935dc751e1a4c5f4111c8e6dbd3c157a165e0917549adfe2b6ff82fa",
+  "size": 8999,
+  "subdir": "osx-arm64",
+  "timestamp": 1741185496000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/nbconvert-pandoc-7.16.6-py311hca03da5_0.conda",
+  "version": "7.16.6"
+}

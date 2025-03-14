@@ -1,0 +1,5 @@
+#!/Users/victor_he/Downloads/AI_ML_Projects/heart_disease_project/env/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
